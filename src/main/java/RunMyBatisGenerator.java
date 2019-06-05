@@ -12,6 +12,7 @@ import org.mybatis.generator.internal.DefaultShellCallback;
 public class RunMyBatisGenerator {
 
 	public static void main(String[] args) throws Exception{
+		//hahahh
 		List<String> warnings = new ArrayList<String>();
 	   boolean overwrite = true;
 	   File configFile = new File("mbg.xml");
